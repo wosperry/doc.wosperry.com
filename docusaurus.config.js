@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'wosperry',
-  tagline: '卷你大爷，快来打游戏',
+  tagline: '卷你大爷，快去打游戏',
   favicon: 'img/cat.ico',
 
   // Set the production url of your site here
