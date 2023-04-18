@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-name: wosperry
+authors: endi
 tags: [hello, docusaurus]
 ---
 
