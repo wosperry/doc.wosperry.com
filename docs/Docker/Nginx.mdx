@@ -1,0 +1,82 @@
+
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+# Nginx 部署静态页面
+
+<Tabs>
+<TabItem value="conf" label="nginx配置">
+
+``` shell
+server {
+  #SSL 默认访问端口号为 443
+  listen 443 ssl;
+  #请填写绑定证书的域名
+  server_name test.wosperry.com; 
+  #请填写证书文件的相对路径或绝对路径
+  ssl_certificate  certs/test.wosperry.com_bundle.crt; 
+  #请填写私钥文件的相对路径或绝对路径
+  ssl_certificate_key certs/test.wosperry.com.key; 
+  ssl_session_timeout 5m;
+  #请按照以下套件配置，配置加密套件，写法遵循 openssl 标准。
+  ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;
+  #请按照以下协议配置
+  ssl_protocols TLSv1.2 TLSv1.3;
+  ssl_prefer_server_ciphers on;
+  location / {
+    #网站主页路径。此路径仅供参考，具体请您按照实际目录操作。 
+    #例如，您的网站主页在 Nginx 服务器的 /etc/www 目录下，则请修改 root 后面的 html 为 /etc/www。
+    root test;
+    index index.html;
+  }
+}
+server {
+ listen 80;
+ #请填写绑定证书的域名
+ server_name test.wosperry.com; 
+ #把http的域名请求转成https
+ return 301 https://$host$request_uri; 
+}
+```
+
+
+#### 说明
+
+- 看的懵逼的话，关心nginx配置里的域名、server_name、端口就好，其他的不用管，遇到了要用再搜
+- 这个例子是配置的子域名，在配置的时候，都listen 80、443，然后给不一样的server_name即可
+- 证书路径我这里使用的是相对路径，相对路径是容器内的 `/etc/nginx/`，所以如果按下面这样写证书路径，那么挂载的时候要把证书所在的目录挂载到容器内的 `/etc/nginx/certs` 内
+- server里面的location，需要配置监听的url，这里给的是`\`代表所有，其实可以配置很多规则的，但是我不会，可以搜一下location怎么配置。
+- 这里的location，是所有，然后root表示你静态站点的路径，由于nginx是跑在容器内的，所以要给容器内的路径，这里直接给了个test路径，表示这个静态站点放到了容器内的 `/etc/nginx/test` 文件夹，然后index给的是 `index.html` ，表示默认访问 `index.html`
+- 挂载路径的去和 `docker run`的对比下看看挂载哪了，这里配置的哪
+
+</TabItem>
+<TabItem value="pull" label="拉取镜像"> 
+
+``` shell
+docker pull nginx
+```
+
+
+
+#### 说明
+
+没啥好说明的，拉合适的镜像就好了，去 [hub.docker.com](https://hub.docker.com) 搜，点开 Tags 看，慢慢找
+
+</TabItem>
+
+<TabItem value="run" label="运行">
+
+``` shell
+docker run -d \
+  -p 801:80 \
+  -p 4431:443 \
+  -v /perry/website/test:/etc/nginx/www \
+  -v /perry/certs/test:/etc/nginx/certs \
+  -v /perry/nginx/conf.d:/etc/nginx/conf.d \
+  --name nginx \
+  nginx
+```
+</TabItem>
+</Tabs>

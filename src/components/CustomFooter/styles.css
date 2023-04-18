@@ -1,0 +1,29 @@
+.custom-footer{
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: .8rem;
+    padding: 2px 20px;
+}
+
+.custom-footer-beian>a{
+    padding: 0 5px;
+}
+
+.custom-footer-beian>a:nth-child(1){
+    padding-left: 25px;
+    position: relative;
+    border-right: 1px solid rgb(141, 140, 140);
+}
+.custom-footer-beian>a:nth-child(1)::before{
+    content:'';
+    background-image: url(./备案图标.png);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+}
+.custom-footer-beian>a:nth-child(2){
+}

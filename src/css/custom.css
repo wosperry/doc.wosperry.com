@@ -1,0 +1,45 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #56b0f5;
+  --ifm-color-primary-dark: #37a1f3;
+  --ifm-color-primary-darker: #279af2;
+  --ifm-color-primary-darkest: #0d81db;
+  --ifm-color-primary-light: #75bff7;
+  --ifm-color-primary-lighter: #85c6f8;
+  --ifm-color-primary-lightest: #b4dcfb;
+}
+[data-theme='dark'] {
+  --ifm-color-primary: #147bdb;
+  --ifm-color-primary-dark: #126fc5;
+  --ifm-color-primary-darker: #1169ba;
+  --ifm-color-primary-darkest: #0e5699;
+  --ifm-color-primary-light: #1d87ea;
+  --ifm-color-primary-lighter: #288deb;
+  --ifm-color-primary-lightest: #489eee;
+}
+
+.menu{
+  padding-left: 20px !important;
+}
+
+.menu__list-item{
+  position:relative;
+  padding-left: 10px !important;
+}
+.menu__list-item-collapsible>button{
+  position:absolute !important;
+  left: -30px !important;
+}
+.menu__list-item-collapsible>a::after{
+  position:absolute !important;
+  left: -15px !important;
+}
+.menu__list-item-collapsible,.menu__list-item-collapsible:hover,.menu__list-item-collapsible>button:hover{
+  background-color: transparent;
+}
