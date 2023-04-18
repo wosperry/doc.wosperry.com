@@ -1,0 +1,59 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Redis
+
+<Tabs>
+<TabItem value="single" label="单节点">
+
+1. 拉取镜像
+其实也可以不拉，直接docker run是一样的，但是第一次运行会比较慢，因为要下载
+
+   ``` shell
+   # 选择合适版本的tag
+   docker pull redis
+   ```
+
+
+2. 基本运行
+
+   ``` shell
+   docker run -d -p 6379:6379 --name redis redis
+   ```
+3 指定配置文件
+
+   ``` shell
+    docker run -d \
+      -p 6379:6379 \
+      --name redis \
+      -v /path/to/redis.conf:/usr/local/etc/redis/redis.conf \
+      redis \
+      redis-server /usr/local/etc/redis/redis.conf # ENTRYPOINT，运行后执行的脚本
+   ```
+4. 指定数据目录
+
+   ``` shell
+   docker run -d \
+     -p 6379:6379 \
+     --name redis \
+     -v /path/to/data:/data \
+     redis \
+     redis-server --appendonly yes # ENTRYPOINT，运行后执行的脚本
+   ```
+5. 指定密码
+
+   ``` shell
+    docker run -d \
+      -p 6379:6379 \
+      --name redis \
+      -v /path/to/data:/data \
+      redis \
+      redis-server --appendonly yes --requirepass "yourpassword" # ENTRYPOINT，运行后执行的脚本
+    ```
+
+</TabItem>
+
+<TabItem value="cluster" label="集群">
+
+</TabItem>
+</Tabs>
