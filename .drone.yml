@@ -13,7 +13,7 @@ steps:
     commands:
       - "npm install"
       - "npm run build"
-      - "cp -r public/* /perry/wosperry-blog-public"
+      - "cp -r build/* /perry/wosperry-blog-public"
 
 volumes:
   - name: dockersock
