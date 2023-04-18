@@ -70,8 +70,8 @@ docker pull nginx
 
 ``` shell
 docker run -d \
-  -p 801:80 \
-  -p 4431:443 \
+  -p 80:80 \
+  -p 443:443 \
   -v /perry/website/test:/etc/nginx/www \
   -v /perry/certs/test:/etc/nginx/certs \
   -v /perry/nginx/conf.d:/etc/nginx/conf.d \
