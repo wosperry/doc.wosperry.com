@@ -50,31 +50,27 @@ server {
 - 挂载路径的去和 `docker run`的对比下看看挂载哪了，这里配置的哪
 
 </TabItem>
-<TabItem value="pull" label="拉取镜像"> 
-
-``` shell
-docker pull nginx
-```
-
-
-
-#### 说明
-
-没啥好说明的，拉合适的镜像就好了，去 [hub.docker.com](https://hub.docker.com) 搜，点开 Tags 看，慢慢找
-
-</TabItem>
 <TabItem value="run" label="运行">
 
-``` shell
-docker run -d \
-  -p 80:80 \
-  -p 443:443 \
-  -v /perry/website/test:/etc/nginx/www \
-  -v /perry/certs/test:/etc/nginx/certs \
-  -v /perry/nginx/conf.d:/etc/nginx/conf.d \
-  --name nginx \
-  nginx
-```
+1. 拉取镜像
+也可以不拉取，直接运行，会自动拉取的
+
+   ``` shell
+   docker pull nginx
+   ```
+
+2. 运行
+
+   ``` shell
+   docker run -d \
+     -p 80:80 \
+     -p 443:443 \
+     -v /perry/website/test:/etc/nginx/www \
+     -v /perry/certs/test:/etc/nginx/certs \
+     -v /perry/nginx/conf.d:/etc/nginx/conf.d \
+     --name nginx \
+     nginx
+   ```
 
 注意这里用 `-v` 挂载路径到容器，是给nginx程序用的，要和nginx的配置文件里配置的路径对得上，不然就404了。
 
