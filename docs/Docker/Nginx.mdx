@@ -78,5 +78,8 @@ docker run -d \
   --name nginx \
   nginx
 ```
+
+注意这里用 `-v` 挂载路径到容器，是给nginx程序用的，要和nginx的配置文件里配置的路径对得上，不然就404了。
+
 </TabItem>
 </Tabs>
