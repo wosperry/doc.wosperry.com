@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'wosperry',
+  tagline: '卷你大爷，快来打游戏',
+  favicon: 'img/cat.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
