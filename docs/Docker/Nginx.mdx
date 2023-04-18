@@ -55,22 +55,22 @@ server {
 1. 拉取镜像
 也可以不拉取，直接运行，会自动拉取的
 
-   ``` shell
-   docker pull nginx
-   ```
+  ``` shell
+  docker pull nginx
+  ```
 
 2. 运行
 
-   ``` shell
-   docker run -d \
-     -p 80:80 \
-     -p 443:443 \
-     -v /perry/website/test:/etc/nginx/www \
-     -v /perry/certs/test:/etc/nginx/certs \
-     -v /perry/nginx/conf.d:/etc/nginx/conf.d \
-     --name nginx \
-     nginx
-   ```
+  ``` shell
+  docker run -d \
+    -p 80:80 \
+    -p 443:443 \
+    -v /perry/website/test:/etc/nginx/www \
+    -v /perry/certs/test:/etc/nginx/certs \
+    -v /perry/nginx/conf.d:/etc/nginx/conf.d \
+    --name nginx \
+    nginx
+  ```
 
 注意这里用 `-v` 挂载路径到容器，是给nginx程序用的，要和nginx的配置文件里配置的路径对得上，不然就404了。
 

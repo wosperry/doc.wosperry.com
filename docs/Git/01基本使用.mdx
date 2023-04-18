@@ -1,0 +1,87 @@
+# 基本使用
+
+1. 初始化git仓库
+
+  ``` bash
+  git init 
+  ```
+
+  这里的git init是在当前目录下创建一个.git的隐藏目录，这个目录就是git的仓库，里面存放着git的版本信息。
+
+2. 添加文件到git仓库
+
+  ``` bash
+  git add <file>
+  ```
+
+  这里的git add是将文件添加到git仓库，这里的file可以是文件名，也可以是目录名，如果是目录名，那么这个目录下的所有文件都会被添加到git仓库。
+
+  ``` bash
+  git add .
+  ```
+
+  这里的.表示当前目录，也就是将当前目录下的所有文件都添加到git仓库。
+
+3. 提交文件到git仓库
+
+  ``` bash
+  git commit -m "commit message"
+  ```
+
+  这里的git commit是将文件提交到git仓库，-m后面的是提交的说明信息。
+
+4. 查看git仓库的状态
+
+  ``` bash
+  git status
+  ```
+
+  这里的git status是查看git仓库的状态，可以查看当前仓库的文件状态，是否有文件被修改，是否有文件被删除，是否有文件被添加等。
+
+5. 查看git仓库的日志
+    
+  ``` bash
+  git log
+  ```
+  
+  这里的git log是查看git仓库的日志，可以查看当前仓库的提交日志，包括提交的时间，提交的说明信息等。
+
+  ``` bash
+  git log --pretty=oneline
+  ```
+
+  这里的--pretty=oneline是将git log的输出结果压缩成一行，方便查看。
+
+  ``` bash
+  git reflog
+  ```
+
+  这里的git reflog是查看git仓库的日志，可以查看当前仓库的提交日志，包括提交的时间，提交的说明信息等，和git log的区别是git reflog可以查看所有的提交日志，包括已经被删除的提交日志。
+    
+6. 查看文件的修改内容
+
+  ``` bash
+  git diff <file>
+  ```
+
+  这里的git diff是查看文件的修改内容，这里的file可以是文件名，也可以是目录名，如果是目录名，那么这个目录下的所有文件都会被查看。
+
+  ``` bash
+  git diff HEAD -- <file>
+  ```
+
+  这里的HEAD表示当前版本，也就是查看当前版本和上一个版本的文件修改内容，这里的file可以是文件名，也可以是目录名，如果是目录名，那么这个目录下的所有文件都会被查看。
+
+7. 版本回退
+
+  ``` bash
+  git reset --hard HEAD^
+  ```
+
+  这里的git reset是版本回退，--hard表示将工作区的文件也回退到上一个版本，HEAD表示当前版本，^表示上一个版本，^^表示上上一个版本，以此类推。
+
+  ``` bash
+  git reset --hard <commit id>
+  ```
+
+  这里的`<commit id>`表示提交的版本号，也就是将当前版本回退到指定的版本。

@@ -1,0 +1,61 @@
+# 分支
+
+1. 创建分支
+
+  ``` bash
+  bit branch <branch-name>
+  ```
+
+2. 切换分支
+
+  ``` bash
+  bit checkout <branch-name>
+  ```
+
+3. 合并分支
+
+  ``` bash
+  bit merge <branch-name>
+  ```
+
+4. 删除本地分支
+
+  ``` bash
+  bit branch -d <branch-name>
+  ```
+
+5. 删除远程分支
+
+  ``` bash
+  bit push origin --delete <branch-name>
+  ```
+
+6. 查看分支
+
+  ``` bash
+  bit branch
+  ```
+
+7. 查看远程分支
+
+  ``` bash
+  bit branch -r
+  ```
+
+8. 查看所有分支
+
+  ``` bash
+  bit branch -a
+  ```
+
+9. 重命名分支
+
+  ``` bash
+  bit branch -m <old-branch-name> <new-branch-name>
+  ```
+
+10. 重命名远程分支
+
+  ``` bash
+  bit push origin :<old-branch-name> <new-branch-name>
+  ```
