@@ -13,7 +13,8 @@
 ``` textplain
 创建：Perry
 日期：04-07 
-内容：https://github.com/lblblong/mossgpt-utools/issues/4
+内容：这不是一大堆免费的？
+     https://github.com/lblblong/mossgpt-utools/issues/4
 ```
 
 ``` textplain
@@ -31,13 +32,17 @@
 ``` textplain
 创建：token
 日期：03-30 
-内容：
+内容：https://github.com/239573049/ChatGpt.Desktop
+    ChatGpt客户端，支持Android mac Linux Win Web Ios多平台部署和使用，完整的跨平台
+    支持ChatGpt 3.5 支持DALLE图片模型
 ```
 
 ``` textplain
 创建：Perry
 日期：03-30 
-内容：http://www.zztongyun.com/article/%E6%96%B0%E7%89%88edge%E6%80%8E%E6%A0%B7%E5%85%B3%E9%97%AD%E4%B8%8D%E5%AE%89%E5%85%A8%E7%BD%91%E7%AB%99
+内容：Edge浏览器某些https网站无法访问
+
+     http://www.zztongyun.com/article/%E6%96%B0%E7%89%88edge%E6%80%8E%E6%A0%B7%E5%85%B3%E9%97%AD%E4%B8%8D%E5%AE%89%E5%85%A8%E7%BD%91%E7%AB%99
 ```
 
 ``` textplain
@@ -49,19 +54,23 @@
 ``` textplain
 创建：Perry
 日期：03-25 
-内容：https://docusaurus.io/
+内容：小恐龙文档
+
+     https://docusaurus.io/
 ```
 
 ``` textplain
 创建：Perry
 日期：03-24 
-内容：https://github.com/OrgEleCho/EleCho.GoCqHttpSdk/fork
+内容：专为 Go-CqHttp 打造, 完全遵守 C# 编码规范, 优雅与便捷的通信 SDK
+     https://github.com/OrgEleCho/EleCho.GoCqHttpSdk/fork
 ```
 
 ``` textplain
 创建：Perry
 日期：03-12 
-内容：https://www.cnblogs.com/whuanle
+内容：痴者工良博客
+     https://www.cnblogs.com/whuanle
 ```
 
 ``` textplain
@@ -73,7 +82,33 @@
 ``` textplain
 创建：Perry
 日期：03-10 
-内容：https://bit.ly/PS-DDD
+内容：DDD（域驱动设计）
+    Eric Evans。 Domain Language（域语言）
+     https://domainlanguage.com/
+    Martin Fowler。 域驱动设计
+     https://martinfowler.com/tags/domain%20driven%20design.html
+    Jimmy Bogard。 Strengthening your domain: a primer（强化域：入门）
+     https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/
+    DDD 丛书
+    Eric Evans。 Domain-Driven Design: Tackling Complexity in the Heart of Software（域驱动设计：软件核心复杂性应对之道）
+     https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/
+    Eric Evans。 Domain-Driven Design Reference: Definitions and Pattern Summaries（域驱动设计参考：定义和模式摘要）
+     https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-2014-09-22/dp/B01N8YB4ZO/
+    Vaughn Vernon。 Implementing Domain-Driven Design（实现域驱动设计）
+     https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/
+    Vaughn Vernon。 Domain-Driven Design Distilled（域驱动设计核心理念）
+     https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/
+    Jimmy Nilsson。 Applying Domain-Driven Design and Patterns（应用域驱动设计和模式）
+     https://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202/
+    Cesar de la Torre。 N-Layered Domain-Oriented Architecture Guide with .NET（使用 .NET 的 N 层域导向体系结构指南）
+     https://www.amazon.com/N-Layered-Domain-Oriented-Architecture-Guide-NET/dp/8493903612/
+    Abel Avram 与 Floyd Marinescu。 Domain-Driven Design Quickly（快速完成域驱动设计）
+     https://www.amazon.com/Domain-Driven-Design-Quickly-Abel-Avram/dp/1411609255/
+    Scott Millett，Nick Tune - 域驱动设计的模式、原则和实践
+     https://www.wiley.com/Patterns%2C+Principles%2C+and+Practices+of+Domain+Driven+Design-p-9781118714706
+    DDD 培训
+    Julie Lerman 与 Steve Smith。 Domain-Driven Design Fundamentals（域驱动设计基础知识）
+     https://bit.ly/PS-DDD
 ```
 
 ``` textplain
@@ -85,7 +120,9 @@
 ``` textplain
 创建：Perry
 日期：02-25 
-内容：https://learn.microsoft.com/zh-cn/lifecycle/products/microsoft-net-and-net-core
+内容：.Net各版本生命周期
+
+     https://learn.microsoft.com/zh-cn/lifecycle/products/microsoft-net-and-net-core
 ```
 
 ``` textplain
@@ -97,7 +134,9 @@
 ``` textplain
 创建：Perry
 日期：02-22 
-内容：https://www.cnblogs.com/MrChuJiu/p/15322738.html
+内容：Abp权限
+
+     https://www.cnblogs.com/MrChuJiu/p/15322738.html
 ```
 
 ``` textplain
@@ -121,19 +160,22 @@
 ``` textplain
 创建：Perry
 日期：02-19 
-内容：https://www.bilibili.com/video/BV1cY4y1k76S
+内容：Abp多租户官方教程
+     https://www.bilibili.com/video/BV1cY4y1k76S
 ```
 
 ``` textplain
 创建：Perry
 日期：02-19 
-内容：https://space.bilibili.com/335243794
+内容：B站 AbpFramework
+     https://space.bilibili.com/335243794
 ```
 
 ``` textplain
 创建：Perry
 日期：02-17 
-内容：https://www.51cto.com/article/710592.html
+内容：RedisStack是什么鬼
+     https://www.51cto.com/article/710592.html
 ```
 
 ``` textplain
@@ -145,13 +187,16 @@
 ``` textplain
 创建：Perry
 日期：02-13 
-内容：https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Images/Using_CSS_gradients
+内容：CSS 网站
+     https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Images/Using_CSS_gradients
 ```
 
 ``` textplain
 创建：Perry
 日期：02-09 
-内容：https://www.npmjs.com/package/vite-plugin-top-level-await
+内容：Javascript Node ES5 报错top level 无法await
+
+     https://www.npmjs.com/package/vite-plugin-top-level-await
 ```
 
 ``` textplain
@@ -163,25 +208,30 @@
 ``` textplain
 创建：Perry
 日期：02-07 
-内容：https://zhuanlan.zhihu.com/p/265359676
+内容：OCR 介绍啥的
+     https://zhuanlan.zhihu.com/p/265359676
 ```
 
 ``` textplain
 创建：Perry
 日期：02-06 
-内容：https://juejin.cn/post/7044833358085357576
+内容：React 引入Tailwind
+
+     https://juejin.cn/post/7044833358085357576
 ```
 
 ``` textplain
 创建：Perry
 日期：02-06 
-内容：https://www.cnblogs.com/east4ming/p/17094406.html
+内容：Grafana、Loki
+     https://www.cnblogs.com/east4ming/p/17094406.html
 ```
 
 ``` textplain
 创建：Perry
 日期：01-31 
-内容：http://www.loongnix.cn/zh/api/dotnet/
+内容：龙芯
+     http://www.loongnix.cn/zh/api/dotnet/
 ```
 
 ``` textplain
@@ -193,37 +243,46 @@
 ``` textplain
 创建：Perry
 日期：01-05 
-内容：https://www.liaoxuefeng.com/
+内容：廖雪峰
+     https://www.liaoxuefeng.com/
 ```
 
 ``` textplain
 创建：Perry
 日期：01-03 
-内容：https://blog.csdn.net/zhoufei95/article/details/119836004
+内容：VS拓展开发， @token ，给你一周，一周后我们开始提需求
+     https://blog.csdn.net/zhoufei95/article/details/119836004
 ```
 
 ``` textplain
 创建：Perry
 日期：01-03 
-内容：https://learn.microsoft.com/zh-cn/visualstudio/msbuild/customize-your-build?view=vs-2022
+内容：.Net 自定义Build配置
+
+     https://learn.microsoft.com/zh-cn/visualstudio/msbuild/customize-your-build?view=vs-2022
 ```
 
 ``` textplain
 创建：Perry
 日期：12-30 
-内容：edge://net-internals/#hsts
+内容：解决Edge自动https：
+
+    edge://net-internals/#hsts
 ```
 
 ``` textplain
 创建：Perry
 日期：12-29 
-内容：https://greensock.com/docs/v3/GSAP/Tween
+内容：GreenSock tween
+
+     https://greensock.com/docs/v3/GSAP/Tween
 ```
 
 ``` textplain
 创建：Perry
 日期：12-27 
-内容：https://g6.antv.antgroup.com/
+内容：ANTV
+     https://g6.antv.antgroup.com/
 ```
 
 ``` textplain
@@ -235,43 +294,54 @@
 ``` textplain
 创建：Perry
 日期：12-27 
-内容：https://hellogithub.com/
+内容：HelloGithub
+     https://hellogithub.com/
 ```
 
 ``` textplain
 创建：Perry
 日期：12-22 
-内容：https://blog.csdn.net/catshitone/article/details/109840926
+内容：AutoMapper 用法大全
+
+     https://blog.csdn.net/catshitone/article/details/109840926
 ```
 
 ``` textplain
 创建：Perry
 日期：12-17 
-内容：https://github.com/xljiulang/PredicateLib
+内容：老九 大佬的表达式封装
+
+     https://github.com/xljiulang/PredicateLib
 ```
 
 ``` textplain
 创建：Perry
 日期：12-17 
-内容：https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html
+内容：时总写的内存分析指南
+
+     https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html
 ```
 
 ``` textplain
 创建：Perry
 日期：12-17 
-内容：https://space.bilibili.com/88301311
+内容：无聊的年：
+     https://space.bilibili.com/88301311
 ```
 
 ``` textplain
 创建：Perry
 日期：12-16 
-内容：这个UI 挺好的感觉
+内容：https://d2-admin.netlify.app/#/demo/playground/store/theme
+
+    这个UI 挺好的感觉
 ```
 
 ``` textplain
 创建：Perry
 日期：12-15 
-内容：https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/code-chunk
+内容：Markdown Preview Enhance 使用文档
+     https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/code-chunk
 ```
 
 ``` textplain
@@ -283,7 +353,8 @@
 ``` textplain
 创建：Perry
 日期：12-14 
-内容：https://www.bilibili.com/video/BV1XF411B7zx
+内容：收藏下Ｔｏｋｅｎ分享的Ｒｅａｃｔ＋ｔｓ教程
+     https://www.bilibili.com/video/BV1XF411B7zx
 ```
 
 ``` textplain
@@ -295,13 +366,15 @@
 ``` textplain
 创建：Perry
 日期：12-12 
-内容：https://www.cnblogs.com/wosperry/p/16976999.html
+内容：这回挂载硬盘笔记
+     https://www.cnblogs.com/wosperry/p/16976999.html
 ```
 
 ``` textplain
 创建：Perry
 日期：12-12 
-内容：https://c.runoob.com/
+内容：菜鸟工具箱
+     https://c.runoob.com/
 ```
 
 ``` textplain
@@ -313,13 +386,17 @@
 ``` textplain
 创建：Perry
 日期：12-08 
-内容：https://openai.com/blog/chatgpt/
+内容：聊天机器人
+
+     https://openai.com/blog/chatgpt/
 ```
 
 ``` textplain
 创建：Perry
 日期：12-08 
-内容：http://docs.tokengo.top:81
+内容：Token佬的装机笔记
+
+     http://docs.tokengo.top:81
 ```
 
 ``` textplain
@@ -337,13 +414,16 @@
 ``` textplain
 创建：Perry
 日期：12-07 
-内容：https://www.cnblogs.com/InCerry/
+内容：时总博客
+
+     https://www.cnblogs.com/InCerry/
 ```
 
 ``` textplain
 创建：Perry
 日期：12-07 
-内容：https://www.jianshu.com/p/872e2e2e502d
+内容：ubuntu 改固定IP
+     https://www.jianshu.com/p/872e2e2e502d
 ```
 
 ``` textplain
@@ -355,37 +435,56 @@
 ``` textplain
 创建：Perry
 日期：12-06 
-内容：https://www.cnblogs.com/daizhj/archive/2010/08/24/1807324.html
+内容：代震军BLOG 一致性Hash算法(KetamaHash)的c#实现
+     https://www.cnblogs.com/daizhj/archive/2010/08/24/1807324.html
 ```
 
 ``` textplain
 创建：Perry
 日期：12-04 
-内容：```
+内容：# wsl2和vmware冲突
+    > https://www.jianshu.com/p/20ae65d1b7a1
+
+    1. 执行完后重启电脑
+    ``` powershell
+    dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /NO restart
+    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /NO restart
+    ```
+
+    2. 重启后手动执行以下
+    ``` powershell
+    Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+    ```
 ```
 
 ``` textplain
 创建：Perry
 日期：12-02 
-内容：https://www.bilibili.com/video/BV1n14y1a7tR
+内容：我那个博客就这么搞的
+     https://www.bilibili.com/video/BV1n14y1a7tR
 ```
 
 ``` textplain
 创建：Perry
 日期：11-30 
-内容：https://wosperry.com/post/docker_gitea
+内容：Docker安装Gitea笔记
+     https://wosperry.com/post/docker_gitea
 ```
 
 ``` textplain
 创建：Perry
 日期：11-30 
-内容：https://zh.javascript.info/
+内容：现代 JavaScript 教程
+
+     https://zh.javascript.info/
 ```
 
 ``` textplain
 创建：token
 日期：11-30 
-内容：本地事件总线实现原理文档说明
+内容：https://gitee.com/attacking-code-farmer/token-module/tree/master/src/Token.EventBus
+     本地事件总线实现原理文档说明
 ```
 
 ``` textplain
@@ -397,13 +496,21 @@
 ``` textplain
 创建：Perry
 日期：11-29 
-内容：https://www.cnblogs.com/chrisghb8812/p/5527744.html
+内容：CLR
+     https://www.cnblogs.com/chrisghb8812/p/5527744.html
 ```
 
 ``` textplain
 创建：Perry
 日期：11-29 
-内容：7. docker push 推送6中打的标签
+内容：1. 安装个虚拟机，装Ubuntu 20.04
+    2. 在ubuntu运行 curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+    配置docker engine，把自己私服地址添加上，如果是http，就添加到insecure那里
+    3. 项目右键，选择添加Docker支持，选Linux
+    4. powershell执行 docker build -t 程序名:版本标签 -f ./dockerfile路径 .
+    5. docker login 回车，输入服务地址，用户名，密码
+    6. docker tag 打好docker私服仓库那个命名空间
+    7. docker push 推送6中打的标签
 ```
 
 ``` textplain
@@ -427,19 +534,23 @@
 ``` textplain
 创建：Perry
 日期：11-23 
-内容：https://docs.abp.io/
+内容：Abp官网文档
+
+     https://docs.abp.io/
 ```
 
 ``` textplain
 创建：Perry
 日期：11-23 
-内容：https://weihanli.github.io/StackExchange.Redis-docs-zh-cn/
+内容：StackExchange.Redis 文档
+     https://weihanli.github.io/StackExchange.Redis-docs-zh-cn/
 ```
 
 ``` textplain
 创建：Perry
 日期：11-21 
-内容：https://docusaurus.io/docs/installation
+内容：小恐龙官方文档
+     https://docusaurus.io/docs/installation
 ```
 
 ``` textplain
@@ -451,7 +562,8 @@
 ``` textplain
 创建：Perry
 日期：11-18 
-内容：https://learn.microsoft.com/zh-cn/dotnet/architecture/dapr-for-net-developers/getting-started
+内容：Dapr官方文档
+     https://learn.microsoft.com/zh-cn/dotnet/architecture/dapr-for-net-developers/getting-started
 ```
 
 ``` textplain
@@ -463,13 +575,16 @@
 ``` textplain
 创建：Perry
 日期：11-17 
-内容：https://www.bilibili.com/video/BV1Xv4y1T7by?p=4&vd_source=64e3e4a83efa40df1829403d02dbd247
+内容：设计模式 赵宇剑
+
+     https://www.bilibili.com/video/BV1Xv4y1T7by?p=4&vd_source=64e3e4a83efa40df1829403d02dbd247
 ```
 
 ``` textplain
 创建：Perry
 日期：11-17 
-内容：https://github.com/serverlessworkflow/sdk-net
+内容：serverless 工作流net6
+     https://github.com/serverlessworkflow/sdk-net
 ```
 
 ``` textplain
@@ -505,31 +620,38 @@
 ``` textplain
 创建：Perry
 日期：11-15 
-内容：https://www.cnblogs.com/kewei/p/10613843.html
+内容：PredicateLib 帮你组条件的东西
+     https://www.cnblogs.com/kewei/p/10613843.html
 ```
 
 ``` textplain
 创建：Perry
 日期：11-13 
-内容：https://www.nvidia.cn/geforce/guides/broadcasting-guide/
+内容：NVIDIA 编码器 NVENC OBS 指南 | GeForce 新闻 | NVIDIA
+     https://www.nvidia.cn/geforce/guides/broadcasting-guide/
 ```
 
 ``` textplain
 创建：Perry
 日期：11-11 
-内容：https://developer.aliyun.com/article/713441
+内容：Kubernetes环境中使用NAS动态存储卷
+
+     https://developer.aliyun.com/article/713441
 ```
 
 ``` textplain
 创建：Perry
 日期：11-11 
-内容：https://blog.csdn.net/xu710263124/article/details/118902539
+内容：nginx 规则
+     https://blog.csdn.net/xu710263124/article/details/118902539
 ```
 
 ``` textplain
 创建：Perry
 日期：11-10 
-内容：https://blog.odliken.cn/2022/08/06/drone%E5%86%85%E7%BD%AE%E5%8F%98%E9%87%8F/
+内容：Ｄｒｏｎｅ内置变量
+
+     https://blog.odliken.cn/2022/08/06/drone%E5%86%85%E7%BD%AE%E5%8F%98%E9%87%8F/
 ```
 
 ``` textplain
@@ -547,7 +669,8 @@
 ``` textplain
 创建：Perry
 日期：11-09 
-内容：https://skyao.io/post/
+内容：敖小剑博客
+     https://skyao.io/post/
 ```
 
 ``` textplain
@@ -583,7 +706,10 @@
 ``` textplain
 创建：Perry
 日期：10-17 
-内容：【QuickStart】 https://github.com/dragonflydb/dragonfly/tree/main/docs/quick-start
+内容：【简书】阿里巴巴文件分发系统Dragonfly搭建
+     https://www.jianshu.com/p/1a85ea6b53ee
+    【github代码】 https://github.com/dragonflydb/dragonfly
+    【QuickStart】 https://github.com/dragonflydb/dragonfly/tree/main/docs/quick-start
 ```
 
 ``` textplain
@@ -595,13 +721,15 @@
 ``` textplain
 创建：Perry
 日期：09-26 
-内容：https://www.loongson.cn/newsDetails/1889
+内容：龙芯.NET正式发布 开源共享与开发者共成长
+     https://www.loongson.cn/newsDetails/1889
 ```
 
 ``` textplain
 创建：Perry
 日期：09-26 
-内容：http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf
+内容：中国通信院《全球开源研究报告（2022年）》
+     http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf
 ```
 
 ``` textplain
@@ -625,13 +753,16 @@
 ``` textplain
 创建：Perry
 日期：09-22 
-内容：http://xiaoka2017.gitee.io/easy-flow https://gitee.com/yjblogs/VFD
+内容：拖动的流程设计器
+
+     http://xiaoka2017.gitee.io/easy-flow https://gitee.com/yjblogs/VFD
 ```
 
 ``` textplain
 创建：Perry
 日期：09-22 
-内容：https://www.cnblogs.com/Gitea/p/drone.html
+内容：Drone+Gitea 搞 CI
+     https://www.cnblogs.com/Gitea/p/drone.html
 ```
 
 ``` textplain
@@ -649,55 +780,69 @@
 ``` textplain
 创建：Perry
 日期：09-16 
-内容：https://data.stats.gov.cn/
+内容：国家数据
+
+     https://data.stats.gov.cn/
 ```
 
 ``` textplain
 创建：Perry
 日期：09-15 
-内容：https://blog.csdn.net/qwertyupoiuytr/article/details/54097846
+内容：Linux 查看网络IO
+     https://blog.csdn.net/qwertyupoiuytr/article/details/54097846
 ```
 
 ``` textplain
 创建：Perry
 日期：09-13 
-内容：https://learnku.com/articles/67706
+内容：Navicat 16 Pre 破解
+     https://learnku.com/articles/67706
 ```
 
 ``` textplain
 创建：Perry
 日期：09-11 
-内容：https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README
+内容：Python ESP32
+     https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README
 ```
 
 ``` textplain
 创建：Perry
 日期：09-01 
-内容：https://emojipedia.org/
+内容：EMOJI
+     https://emojipedia.org/
 ```
 
 ``` textplain
 创建：Perry
 日期：08-30 
-内容：老张： https://www.bilibili.com/video/BV1sJ41197af
+内容：IdentityServer4
+
+    杨旭： https://www.bilibili.com/video/BV16b411k7yM
+
+    老张： https://www.bilibili.com/video/BV1sJ41197af
 ```
 
 ``` textplain
 创建：ʚ奇妙诺尔ɞ
 日期：08-30 
-内容：条件编译和框架目标 https://www.lmlphp.com/user/152008/article/item/3671005
+内容：nuget 多目标 https://docs.microsoft.com/zh-cn/nuget/create-packages/supporting-multiple-target-frameworks
+    目标框架名称参考 https://docs.microsoft.com/zh-cn/nuget/reference/target-frameworks
+    条件编译和框架目标 https://www.lmlphp.com/user/152008/article/item/3671005
 ```
 
 ``` textplain
 创建：Perry
 日期：08-23 
-内容：nanoff --platform esp32 --serialport COM3 --update
+内容：ESP32更新
+    nanoff --platform esp32 --serialport COM3 --update
 ```
 
 ``` textplain
 创建：Perry
 日期：08-18 
-内容：https://zhuanlan.zhihu.com/p/462561644
+内容：逆变协变的
+     https://zhuanlan.zhihu.com/p/462561644
 ```
 
 ``` textplain
@@ -727,49 +872,59 @@
 ``` textplain
 创建：Perry
 日期：08-04 
-内容：https://emojipedia.org/
+内容：Emoji :
+     https://emojipedia.org/
 ```
 
 ``` textplain
 创建：Perry
 日期：08-04 
-内容：https://www.bilibili.com/video/BV1hG411p7fX
+内容：Markdown 教程
+     https://www.bilibili.com/video/BV1hG411p7fX
 ```
 
 ``` textplain
 创建：戀上葉子的風
 日期：07-23 
-内容：，如果这些用promise去做有多难
+内容：https://juejin.cn/post/7121049508485529614#heading-12
+    家人们前端好文分享，为什么我一直说promise不行，rx yyds
+    ，如果这些用promise去做有多难
 ```
 
 ``` textplain
 创建：Perry
 日期：07-20 
-内容：https://www.kuboard.cn/install/v3/install-in-k8s.html#%E5%AE%89%E8%A3%85
+内容：Kuboard V3
+     https://www.kuboard.cn/install/v3/install-in-k8s.html#%E5%AE%89%E8%A3%85
 ```
 
 ``` textplain
 创建：Perry
 日期：07-10 
-内容：https://www.cnblogs.com/wuvikr/p/14688079.html
+内容：Harbor 部署和使用
+     https://www.cnblogs.com/wuvikr/p/14688079.html
 ```
 
 ``` textplain
 创建：Perry
 日期：06-20 
-内容：https://cloud.tencent.com/developer/article/1580358
+内容：k8s 仪表盘
+     https://cloud.tencent.com/developer/article/1580358
 ```
 
 ``` textplain
 创建：Perry
 日期：06-20 
-内容：https://mp.weixin.qq.com/s/eSICFshxOpceMPs6bSJXOw
+内容：有人分享了个做报表的Net6做的工具，没细看，收藏下
+     https://mp.weixin.qq.com/s/eSICFshxOpceMPs6bSJXOw
 ```
 
 ``` textplain
 创建：Perry
 日期：06-16 
-内容：https://www.jianshu.com/p/164538a89939 https://www.xdnote.com/tweenjs/
+内容：Tweenjs 搞动画的
+
+     https://www.jianshu.com/p/164538a89939 https://www.xdnote.com/tweenjs/
 ```
 
 ``` textplain
@@ -793,13 +948,16 @@
 ``` textplain
 创建：Tearfully
 日期：Reject... 06-12 
-内容：提取码:rmig
+内容：Vue3
+    链接: https://pan.baidu.com/s/1JEeSF5yxwbUVSsIPzutEew?pwd=rmig
+    提取码:rmig
 ```
 
 ``` textplain
 创建：Tearfully
 日期：Reject... 06-12 
-内容：点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放
+内容：「CoderWhy深入Jacascript高...法完整直播版(1)」 https://www.aliyundrive.com/s/GHvgkxDxnzf?adtag=wx
+    点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放
 ```
 
 ``` textplain
@@ -817,13 +975,15 @@
 ``` textplain
 创建：Perry
 日期：06-07 
-内容：https://insights.thoughtworks.cn/managing-technical-debt/
+内容：技术债治理的四个原则：
+     https://insights.thoughtworks.cn/managing-technical-debt/
 ```
 
 ``` textplain
 创建：Perry
 日期：06-07 
-内容：https://blog.csdn.net/u011385940/article/details/124976111
+内容：DDD落地方法：事件风暴会议
+     https://blog.csdn.net/u011385940/article/details/124976111
 ```
 
 ``` textplain
@@ -835,7 +995,8 @@
 ``` textplain
 创建：Perry
 日期：05-24 
-内容：https://docs.microsoft.com/zh-cn/sql/ssms/sql-server-management-studio-ssms
+内容：SSMS
+     https://docs.microsoft.com/zh-cn/sql/ssms/sql-server-management-studio-ssms
 ```
 
 ``` textplain
@@ -895,7 +1056,9 @@
 ``` textplain
 创建：Perry
 日期：04-26 
-内容：https://www.cnblogs.com/ittranslator/p/refresh-jwt-with-refresh-tokens-in-asp-net-core-5-rest-api-step-by-step.html
+内容：JWT RefreshToken
+
+     https://www.cnblogs.com/ittranslator/p/refresh-jwt-with-refresh-tokens-in-asp-net-core-5-rest-api-step-by-step.html
 ```
 
 ``` textplain
@@ -919,13 +1082,38 @@
 ``` textplain
 创建：Perry
 日期：04-08 
-内容：https://marketplace.visualstudio.com/items?itemName=munyabe.CaseConverter
+内容：VS自带的命名方式转换
+
+     https://marketplace.visualstudio.com/items?itemName=munyabe.CaseConverter
 ```
 
 ``` textplain
 创建：token
 日期：04-07 
-内容：drone/drone-runner-docker:1
+内容：sudo docker run --volume= /胜利 ar /闪电 b/drone:/data
+    --env=DRONE_GITEE_CLIENT_ID=gitee的id
+    --env=DRONE_GITEE_CLIENT_SECRET=gitee的密码
+    --env=DRONE_RPC_SECRET=随便秘钥
+    --env=DRONE_SERVER_HOST=drone服务的ip \
+     --env=DRONE_SERVER_PROTO=http \
+     --publish=80:80 \
+     --publish=443:443 \
+     --restart=always \
+     --detach=true \
+     --name=drone \
+     drone/drone:2
+
+    sudo docker run --detach \
+     --volume= /胜利 ar/run/ docker.sock: /胜利 ar/run/ docker.sock \
+     --env=DRONE_RPC_PROTO=http \
+     --env=DRONE_RPC_HOST=drone服务的ip \
+     --env=DRONE_RPC_SECRET=随便秘钥 \
+     --env=DRONE_RUNNER_CAPACITY=2 \
+     --env=DRONE_RUNNER_NAME=my-first-runner \
+     --publish=3000:3000 \
+     --restart=always \
+     --name=runner \
+     drone/drone-runner-docker:1
 ```
 
 ``` textplain
@@ -967,13 +1155,17 @@
 ``` textplain
 创建：Perry
 日期：03-24 
-内容：https://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86 https://baike.baidu.com/item/CAP%E5%8E%9F%E5%88%99/5712863 https://cloud.tencent.com/developer/article/1860632
+内容：CAP定理：
+     https://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86 https://baike.baidu.com/item/CAP%E5%8E%9F%E5%88%99/5712863 https://cloud.tencent.com/developer/article/1860632
 ```
 
 ``` textplain
 创建：Perry
 日期：03-22 
-内容：https://www.yundongfang.com/Yun39025.html
+内容：Debian安装Gitlab：
+     https://www.yundongfang.com/Yun39025.html
+    Gitlab CI/CD教程：
+     https://www.yundongfang.com/Yun39025.html
 ```
 
 ``` textplain
@@ -1039,7 +1231,9 @@
 ``` textplain
 创建：Perry
 日期：02-26 
-内容：https://download.mobatek.net/2152021112100754/MobaXterm_Installer_v21.5.zip
+内容：shell工具 MobaXterm
+
+     https://download.mobatek.net/2152021112100754/MobaXterm_Installer_v21.5.zip
 ```
 
 ``` textplain
@@ -1063,7 +1257,20 @@
 ``` textplain
 创建：胖纸不争
 日期：02-24 
-内容：}
+内容："launchBrowser": {
+     "enabled": true,
+     "args": "${auto-detect-url}",
+     "windows": {
+    "command": "cmd.exe",
+     "args": "/C start ${auto-detect-url}/swagger"
+     },
+     "osx": {
+    "command": "open",
+     },
+     "linux": {
+    "command": "xdg-open",
+     }
+     }
 ```
 
 ``` textplain
@@ -1093,7 +1300,8 @@
 ``` textplain
 创建：Perry
 日期：02-20 
-内容：https://www.bilibili.com/video/BV1BF411z7sC
+内容：Python 简单自动操作Windows改良（另一个Up）
+     https://www.bilibili.com/video/BV1BF411z7sC
 ```
 
 ``` textplain
@@ -1111,7 +1319,8 @@
 ``` textplain
 创建：Perry
 日期：02-18 
-内容：https://www.bilibili.com/video/BV17j411f74d?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click 看这套 中国人不骗中国人
+内容：VUE视频
+     https://www.bilibili.com/video/BV17j411f74d?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click 看这套 中国人不骗中国人
 ```
 
 ``` textplain
@@ -1123,7 +1332,9 @@
 ``` textplain
 创建：胖纸不争
 日期：02-17 
-内容：官网 https://www.autoitscript.com/site/
+内容：windows自动化编程脚本语言autoit3
+    .net库 AutoItX.Dotnet
+    官网 https://www.autoitscript.com/site/
 ```
 
 ``` textplain
@@ -1159,7 +1370,11 @@
 ``` textplain
 创建：Perry
 日期：01-29 
-内容：@New3
+内容：Redis 安装以及CLI使用文档： https://www.runoob.com/redis/redis-install.html StackExchange.Redis 使用文档： https://weihanli.github.io/StackExchange.Redis-docs-zh-cn/
+    Redis可视化管理工具： https://gitee.com/qishibo/AnotherRedisDesktopManager/attach_files/934334/download/Another-Redis-Desktop-Manager.1.5.1.exe
+    使用Docker安装的脚本： https://www.yuque.com/docs/share/ac296583-e9a4-4243-812b-0e87a58fa71d?# 《Redis》
+
+    @New3
 ```
 
 ``` textplain
@@ -1195,7 +1410,10 @@
 ``` textplain
 创建：Perry
 日期：01-27 
-内容：https://www.cnblogs.com/wn1m/p/11286109.html
+内容：YAML语法：
+     https://www.runoob.com/w3cnote/yaml-intro.html
+    相关博客：
+     https://www.cnblogs.com/wn1m/p/11286109.html
 ```
 
 ``` textplain
@@ -1207,13 +1425,15 @@
 ``` textplain
 创建：Perry
 日期：01-22 
-内容：https://docs.microsoft.com/zh-cn/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash
+内容：Docker mssql
+     https://docs.microsoft.com/zh-cn/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash
 ```
 
 ``` textplain
 创建：horaoen
 日期：01-21 
-内容：试试这个挺好玩了的
+内容：https://github.com/TimChen44/CC.CodeGenerator
+    试试这个挺好玩了的
 ```
 
 ``` textplain
@@ -1237,7 +1457,16 @@
 ``` textplain
 创建：半夏
 日期：01-20 
-内容：docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=你的强密码" -e "MSSQL_PID=Express" -p 51433:1433--name mssqlexp -d mcr.microsoft.com/mssql/server:2019 - latest
+内容：Microsoft 容器注册表中拉取 SQL Server 2019 Linux 容器映像。
+    sudo docker pull mcr.microsoft.com/mssql/server:2019 - latest
+
+    密码应符合 SQL Server 默认密码策略，否则容器无法设置 SQL Server，将停止工作。 默认情况下，密码的长度必须至少为 8 个字符，并且必须包含以下四种字符中的三种：大写字母、小写字母、十进制数字和符号。
+    使用 Docker 运行容器映像
+    安装Dev版本的
+    docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=你的强密码" -e "MSSQL_PID=Developer" -p 51433:1433--name mssqldev -d mcr.microsoft.com/mssql/server:2019 - latest
+
+    安装Express版本
+    docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=你的强密码" -e "MSSQL_PID=Express" -p 51433:1433--name mssqlexp -d mcr.microsoft.com/mssql/server:2019 - latest
 ```
 
 ``` textplain
@@ -1261,7 +1490,17 @@
 ``` textplain
 创建：Core
 日期：01-17 
-内容：https://gitee.com/coredx9/IdentityServerDemo/blob/NET_5/src/Infrastructure/CoreDX.Application.Command/UserManage/ListUserCommandHandler.cs
+内容：定义
+    接口
+     https://gitee.com/coredx9/IdentityServerDemo/tree/NET_5/src/ApplicationDomain/CoreDX.Domain.Core/Repository
+    实现
+     https://gitee.com/coredx9/IdentityServerDemo/tree/NET_5/src/ApplicationDomain/CoreDX.Domain.Repository.EntityFrameworkCore
+
+    注册
+     https://gitee.com/coredx9/IdentityServerDemo/blob/NET_5/src/DemoApp/IdentityServer/Startup.cs#L800
+
+    获取使用
+     https://gitee.com/coredx9/IdentityServerDemo/blob/NET_5/src/Infrastructure/CoreDX.Application.Command/UserManage/ListUserCommandHandler.cs
 ```
 
 ``` textplain
@@ -1315,7 +1554,12 @@
 ``` textplain
 创建：Perry
 日期：01-12 
-内容：QQ群：867095512
+内容：老张的哲学：
+
+    博客： https://www.cnblogs.com/laozhang-is-phi/
+    B站： https://space.bilibili.com/387802716/
+    Gitee： https://gitee.com/laozhangIsPhi
+    QQ群：867095512
 ```
 
 ``` textplain
