@@ -91,13 +91,15 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '笔记',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/wosperry/doc.wosperry.com', 
             position: 'right',
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
+            
           },
         ],
       },
@@ -105,10 +107,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '站内链接',
             items: [
               {
-                label: 'Tutorial',
+                label: '笔记',
                 to: '/docs/intro',
               },
             ],
