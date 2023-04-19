@@ -712,7 +712,7 @@ https://www.loongson.cn/newsDetails/1889
 ``` shell
 创建：Perry
 日期：09-26 
-内容：中国通信院《全球开源研究报告（2022年）》
+内容：中国信通院《全球开源研究报告（2022年）》
 http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf
 ```
 
