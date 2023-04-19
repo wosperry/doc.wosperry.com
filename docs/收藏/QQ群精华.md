@@ -24,7 +24,8 @@ https://github.com/lblblong/mossgpt-utools/issues/4
 ``` textplain
 创建：Perry
 日期：03-31 
-内容：
+内容：哔哩哔哩
+HTML5最强元素？20分钟带你掌握canvas 2d API
 ```
 
 ``` textplain
@@ -144,13 +145,8 @@ https://www.cnblogs.com/MrChuJiu/p/15322738.html
 ```
 
 ``` textplain
-创建：Perry
-日期：02-21 
-内容：
-```
-
-``` textplain
-创建：Perry的二号小弟
+创建：
+Perry的二号小弟
 日期：02-21 
 内容：https://www.wolai.com/trZ1BgnSaVQ54qSoXHXzct ABP OpenIdDict使用和坑
 ```
@@ -158,7 +154,8 @@ https://www.cnblogs.com/MrChuJiu/p/15322738.html
 ``` textplain
 创建：Perry
 日期：02-21 
-内容：
+内容：推荐个Dotnet的Up，讲Abp、dotnet、授权、打印这些的
+                                一-曲肝肠断
 ```
 
 ``` textplain
@@ -1083,29 +1080,29 @@ https://marketplace.visualstudio.com/items?itemName=munyabe.CaseConverter
 创建：token
 日期：04-07 
 内容：sudo docker run --volume= /胜利 ar /闪电 b/drone:/data
---env=DRONE_GITEE_CLIENT_ID=gitee的id
---env=DRONE_GITEE_CLIENT_SECRET=gitee的密码
---env=DRONE_RPC_SECRET=随便秘钥
---env=DRONE_SERVER_HOST=drone服务的ip \
---env=DRONE_SERVER_PROTO=http \
---publish=80:80 \
---publish=443:443 \
---restart=always \
---detach=true \
---name=drone \
-drone/drone:2
+    --env=DRONE_GITEE_CLIENT_ID=gitee的id
+    --env=DRONE_GITEE_CLIENT_SECRET=gitee的密码
+    --env=DRONE_RPC_SECRET=随便秘钥
+    --env=DRONE_SERVER_HOST=drone服务的ip \
+    --env=DRONE_SERVER_PROTO=http \
+    --publish=80:80 \
+    --publish=443:443 \
+    --restart=always \
+    --detach=true \
+    --name=drone \
+    drone/drone:2
 
 sudo docker run --detach \
---volume= /胜利 ar/run/ docker.sock: /胜利 ar/run/ docker.sock \
---env=DRONE_RPC_PROTO=http \
---env=DRONE_RPC_HOST=drone服务的ip \
---env=DRONE_RPC_SECRET=随便秘钥 \
---env=DRONE_RUNNER_CAPACITY=2 \
---env=DRONE_RUNNER_NAME=my-first-runner \
---publish=3000:3000 \
---restart=always \
---name=runner \
-drone/drone-runner-docker:1
+    --volume= /胜利 ar/run/ docker.sock: /胜利 ar/run/ docker.sock \
+    --env=DRONE_RPC_PROTO=http \
+    --env=DRONE_RPC_HOST=drone服务的ip \
+    --env=DRONE_RPC_SECRET=随便秘钥 \
+    --env=DRONE_RUNNER_CAPACITY=2 \
+    --env=DRONE_RUNNER_NAME=my-first-runner \
+    --publish=3000:3000 \
+    --restart=always \
+    --name=runner \
+    drone/drone-runner-docker:1
 ```
 
 ``` textplain
@@ -1250,18 +1247,18 @@ https://download.mobatek.net/2152021112100754/MobaXterm_Installer_v21.5.zip
 创建：胖纸不争
 日期：02-24 
 内容："launchBrowser": {
-"enabled": true,
-"args": "${auto-detect-url}",
-"windows": {
-"command": "cmd.exe",
-"args": "/C start ${auto-detect-url}/swagger"
-},
-"osx": {
-"command": "open",
-},
-"linux": {
-"command": "xdg-open",
-}
+    "enabled": true,
+    "args": "${auto-detect-url}",
+    "windows": {
+    "command": "cmd.exe",
+    "args": "/C start ${auto-detect-url}/swagger"
+    },
+    "osx": {
+    "command": "open",
+    },
+    "linux": {
+    "command": "xdg-open",
+    }
 }
 ```
 
@@ -1487,10 +1484,8 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=你的强密码" -e "MSSQL_PID=Exp
 https://gitee.com/coredx9/IdentityServerDemo/tree/NET_5/src/ApplicationDomain/CoreDX.Domain.Core/Repository
 实现
 https://gitee.com/coredx9/IdentityServerDemo/tree/NET_5/src/ApplicationDomain/CoreDX.Domain.Repository.EntityFrameworkCore
-
 注册
 https://gitee.com/coredx9/IdentityServerDemo/blob/NET_5/src/DemoApp/IdentityServer/Startup.cs#L800
-
 获取使用
 https://gitee.com/coredx9/IdentityServerDemo/blob/NET_5/src/Infrastructure/CoreDX.Application.Command/UserManage/ListUserCommandHandler.cs
 ```
