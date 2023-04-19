@@ -4,6 +4,7 @@ id: group-message
 
 # 群精华消息汇总
 
+
 ``` shell
 创建：01-10
 日期：由Perry设置
@@ -666,12 +667,6 @@ https://skyao.io/post/
 创建：胖纸不争
 日期：11-08 
 内容：命令行用快捷键Ctrl+r直接重启项目
-```
-
-``` shell
-创建：Perry
-日期：10-31 
-内容：
 ```
 
 ``` shell
