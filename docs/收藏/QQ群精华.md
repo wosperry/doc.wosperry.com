@@ -250,8 +250,7 @@
 ``` textplain
 创建：Perry
 日期：01-03 
-内容：VS拓展开发， @token ，给你一周，一周后我们开始提需求
-     https://blog.csdn.net/zhoufei95/article/details/119836004
+内容：VS拓
 ```
 
 ``` textplain
@@ -347,7 +346,8 @@
 ``` textplain
 创建：Perry
 日期：12-14 
-内容：
+内容：哔哩哔哩
+    【100集】2022年b站最全，最详细、最新的k8s教程
 ```
 
 ``` textplain
@@ -528,7 +528,8 @@
 ``` textplain
 创建：Perry
 日期：11-23 
-内容：
+内容：DTO 是什么东西
+     https://docs.abp.io/zh-Hans/abp/latest/Data-Transfer-Objects
 ```
 
 ``` textplain
@@ -649,9 +650,8 @@
 ``` textplain
 创建：Perry
 日期：11-10 
-内容：Ｄｒｏｎｅ内置变量
-
-     https://blog.odliken.cn/2022/08/06/drone%E5%86%85%E7%BD%AE%E5%8F%98%E9%87%8F/
+内容：Drone 内置变量
+    https://blog.odliken.cn/2022/08/06/drone%E5%86%85%E7%BD%AE%E5%8F%98%E9%87%8F/
 ```
 
 ``` textplain
