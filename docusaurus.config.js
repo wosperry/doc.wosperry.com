@@ -153,6 +153,10 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['powershell', 'csharp', 'java']
       },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
     }),
 };
 
