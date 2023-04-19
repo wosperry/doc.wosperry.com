@@ -110,43 +110,43 @@ const config = {
             title: '站内链接',
             items: [
               {
-                label: '笔记',
+                label: '笔记 📖',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '其他账号',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Bilibili',
+                href: 'https://space.bilibili.com/34482248',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: '博客园',
+                href: 'https://www.cnblogs.com/wosperry',
               },
             ],
           },
           {
-            title: 'More',
+            title: '仓库',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Gitea',
+                href: 'https://git.wosperry.com/wosperry/doc.wosperry.com',
+              },
+              {
+                label: 'Gitee',
+                href: 'https://gitee.com/wosperry/doc.wosperry.com',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/wosperry/doc.wosperry.com',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} wosperry.com, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: require('prism-react-renderer/themes/dracula'),
