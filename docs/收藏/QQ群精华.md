@@ -1,3 +1,7 @@
+---
+id: group-message
+---
+
 # 群精华消息汇总
 
 ``` textplain
