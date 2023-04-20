@@ -58,6 +58,11 @@ const config = {
     ],
   ],
   // ... Your other configurations.
+  plugins: [
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '731415926',
+    }],
+  ],
   // ... Your other configurations.
   themes: [
     // ... Your other themes.
