@@ -92,19 +92,18 @@ const config = {
           src: 'img/cat.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '笔记',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: '笔记',
+          // },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/wosperry/doc.wosperry.com', 
             position: 'right',
             className: "header-github-link",
             "aria-label": "GitHub repository",
-            
           },
         ],
       },
