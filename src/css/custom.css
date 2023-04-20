@@ -52,7 +52,7 @@ li>a.menu__link--active {
   border-radius: 0 !important;
   border-left: 4px solid transparent !important;
 }
-.menu__link:not(.menu__link--active):hover{
+.menu__link:not(.menu__list-item-collapsible):hover{
   border-left: 4px solid var( --ifm-menu-color-active) !important;
   background-color: transparent !important;
 }
